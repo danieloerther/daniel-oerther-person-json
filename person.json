@@ -2,7 +2,13 @@
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "@id": "https://www.oerther.org/DanielOerther#person",
+  "@id": "https://danieloerther.github.io/daniel-oerther-person-json/#person",
+  "identifier": {
+  "@type": "PropertyValue",
+  "propertyID": "ORCID",
+  "value": "0000-0002-6724-3205",
+  "url": "https://orcid.org/0000-0002-6724-3205"
+  },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.oerther.org/DanielOerther"
