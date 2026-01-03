@@ -1,0 +1,162 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.oerther.org/DanielOerther#person",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.oerther.org/DanielOerther"
+  },
+  "name": "Daniel B. Oerther",
+  "givenName": "Daniel",
+  "familyName": "Oerther",
+  "alternateName": [
+    "Daniel Oerther",
+    "Daniel B Oerther",
+    "Dr. Daniel Oerther",
+    "Professor Daniel Oerther",
+    "Daniel B. Oerther, PhD",
+    "Daniel B. Oerther, PE, BCEE, BCES"
+  ],
+  "honorificSuffix": [
+    "PhD",
+    "PE",
+    "BCEE",
+    "BCES",
+    "FAAN",
+    "FAEESP",
+    "FNAP",
+    "CEng",
+    "CEnv"
+  ],
+  "description": "Professor of Environmental Health Engineering specializing in planetary health solutions, interprofessional education and collaborative practice (IPECP), science diplomacy, and environmental biotechnology. Executive Director of the American Academy of Environmental Engineers and Scientists and President of the Council of Engineering and Scientific Specialty Boards. Tenured faculty at Missouri S&T and Professor of Nursing (by courtesy) at Duquesne University.",
+  "url": "https://www.oerther.org/DanielOerther",
+  "image": "https://sites.mst.edu/danieloerther/files/2024/09/headshot-dan.jpg",
+  "jobTitle": [
+    "Professor of Environmental Health Engineering",
+    "Professor of Nursing (by courtesy)",
+    "Executive Director, American Academy of Environmental Engineers and Scientists",
+    "President, Council of Engineering and Scientific Specialty Boards"
+  ],
+  "affiliation": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Missouri University of Science and Technology",
+      "url": "https://www.mst.edu/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Duquesne University",
+      "url": "https://www.duq.edu/"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Academy of Environmental Engineers and Scientists",
+      "url": "https://www.aaees.org/"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Illinois Urbana‑Champaign",
+      "url": "https://illinois.edu/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Northwestern University",
+      "url": "https://www.northwestern.edu/"
+    }
+  ],
+  "sameAs": [
+    "https://orcid.org/0000-0002-6724-3205",
+    "https://scholar.google.com/citations?user=zJqRLFoAAAAJ&hl=en",
+    "https://sites.mst.edu/danieloerther/",
+    "https://www.duq.edu/faculty-and-staff/daniel-oerther.php",
+    "https://www.linkedin.com/in/danieloerther/",
+    "https://x.com/DanielOerther",
+    "https://www.researchgate.net/profile/Daniel-Oerther",
+    "https://en.wikipedia.org/wiki/Daniel_Oerther"
+  ],
+  "knowsAbout": [
+    "Environmental Engineering",
+    "Planetary Health Solutions",
+    "Interprofessional Education and Collaborative Practice",
+    "Science Diplomacy",
+    "Environmental Biotechnology",
+    "Nurse+Engineer Model",
+    "Sustainable Water, Sanitation and Hygiene (WaSH)"
+  ],
+  "award": [
+    {
+      "@type": "Award",
+      "name": "Champion of Nursing Award, American Nurses Association",
+      "awardDate": "2024"
+    },
+    {
+      "@type": "Award",
+      "name": "Duncan Fraser Global Award for Excellence in Engineering Education, IFEES",
+      "awardDate": "2024"
+    },
+    {
+      "@type": "Award",
+      "name": "Gordon Maskew Fair Distinguished Engineering Educator Award, Water Environment Federation",
+      "awardDate": "2020"
+    },
+    {
+      "@type": "Award",
+      "name": "Lillian Wald Humanitarian Award, National League for Nursing",
+      "awardDate": "2019"
+    },
+    {
+      "@type": "Award",
+      "name": "Frederick George Pohland Medal, Association of Environmental Engineering and Science Professors",
+      "awardDate": "2017"
+    },
+    {
+      "@type": "Award",
+      "name": "Stanford-Elsevier Top 2% Scientists",
+      "awardDate": "2025"
+    }
+  ],
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Association of Environmental Engineering and Science Professors"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Academy of Nursing"
+    },
+    {
+      "@type": "Organization",
+      "name": "National Academies of Practice"
+    },
+    {
+      "@type": "Organization",
+      "name": "Chartered Institute of Environmental Health"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Professional Engineer (PE)"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Board Certified Environmental Engineer (BCEE)"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Board Certified Environmental Scientist (BCES)"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Chartered Engineer (CEng)"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Chartered Environmentalist (CEnv)"
+    }
+  ]
+}
+</script>
