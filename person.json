@@ -82,14 +82,29 @@
     "https://en.wikipedia.org/wiki/Daniel_Oerther"
   ],
   "knowsAbout": [
+    "Environmental Engineering",
     "Environmental Engineering 3",
+    "Environmental Health Engineering",
+    "Planetary Health",
     "Planetary Health Solutions",
+    "Interprofessional Education",
     "Interprofessional Education and Collaborative Practice",
     "Science Diplomacy",
     "Environmental Biotechnology",
+    "Nurse-Engineer Collaboration",
     "Nurse+Engineer Model",
+    "V-shaped Professional",
+    "Water and Sanitation (WaSH)",
     "Sustainable Water, Sanitation and Hygiene (WaSH)",
-    "V-shaped Professional"
+    "Sustainable Infrastructure",
+    "Public Health Systems"
+  ],
+  "subjectOf": [
+  {
+    "@type": "CreativeWork",
+    "name": "Scholarly publications by Daniel B. Oerther",
+    "url": "https://scholar.google.com/citations?user=zJqRLFoAAAAJ"
+  }
   ],
   "award": [
     {
