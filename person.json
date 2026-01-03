@@ -13,10 +13,15 @@
   "alternateName": [
     "Daniel Oerther",
     "Daniel B Oerther",
+    "Daniel B. Oerther",
+    "Daniel Barton Oerther",
     "Dr. Daniel Oerther",
+    "Dr. Daniel B. Oerther",
     "Professor Daniel Oerther",
+    "Professor Daniel B. Oerther",
     "Daniel B. Oerther, PhD",
-    "Daniel B. Oerther, PE, BCEE, BCES"
+    "Daniel B. Oerther, PE, BCEE, BCES",
+    "Daniel B. Oerther, PhD, PE, BCEE, BCES"
   ],
   "honorificSuffix": [
     "PhD",
@@ -25,9 +30,7 @@
     "BCES",
     "FAAN",
     "FAEESP",
-    "FNAP",
-    "CEng",
-    "CEnv"
+    "FNAP"
   ],
   "description": "Professor of Environmental Health Engineering specializing in planetary health solutions, interprofessional education and collaborative practice (IPECP), science diplomacy, and environmental biotechnology. Executive Director of the American Academy of Environmental Engineers and Scientists and President of the Council of Engineering and Scientific Specialty Boards. Tenured faculty at Missouri S&T and Professor of Nursing (by courtesy) at Duquesne University.",
   "url": "https://www.oerther.org/DanielOerther",
@@ -68,6 +71,7 @@
     }
   ],
   "sameAs": [
+    "https://danieloerther.github.io/daniel-oerther-person-json/",
     "https://orcid.org/0000-0002-6724-3205",
     "https://scholar.google.com/citations?user=zJqRLFoAAAAJ&hl=en",
     "https://sites.mst.edu/danieloerther/",
@@ -78,15 +82,21 @@
     "https://en.wikipedia.org/wiki/Daniel_Oerther"
   ],
   "knowsAbout": [
-    "Environmental Engineering",
+    "Environmental Engineering 3",
     "Planetary Health Solutions",
     "Interprofessional Education and Collaborative Practice",
     "Science Diplomacy",
     "Environmental Biotechnology",
     "Nurse+Engineer Model",
-    "Sustainable Water, Sanitation and Hygiene (WaSH)"
+    "Sustainable Water, Sanitation and Hygiene (WaSH)",
+    "V-shaped Professional"
   ],
   "award": [
+    {
+      "@type": "Award",
+      "name": "Stanford-Elsevier Top 2% Scientists Career Recognition",
+      "awardDate": "2025"
+    },
     {
       "@type": "Award",
       "name": "Champion of Nursing Award, American Nurses Association",
@@ -94,7 +104,7 @@
     },
     {
       "@type": "Award",
-      "name": "Duncan Fraser Global Award for Excellence in Engineering Education, IFEES",
+      "name": "Duncan Fraser Global Award for Excellence in Engineering Education, International Federation of Engineering Education Socieities",
       "awardDate": "2024"
     },
     {
@@ -111,11 +121,6 @@
       "@type": "Award",
       "name": "Frederick George Pohland Medal, Association of Environmental Engineering and Science Professors",
       "awardDate": "2017"
-    },
-    {
-      "@type": "Award",
-      "name": "Stanford-Elsevier Top 2% Scientists",
-      "awardDate": "2025"
     }
   ],
   "memberOf": [
