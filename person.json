@@ -208,6 +208,18 @@
           "position": 3,
           "name": "Structured JSON Profile",
           "item": "https://danieloerther.github.io/daniel-oerther-person-json/"
+        },
+         {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "University Profile",
+          "item": "https://sites.mst.edu/danieloerther"
+        },
+         {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Blog and Project Archive",
+          "item": "https://danieloerther.wordpress.com "
         }
       ]
     }
