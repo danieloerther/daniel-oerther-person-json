@@ -186,6 +186,30 @@
           "@id": "https://danieloerther.github.io/daniel-oerther-person-json/#person"
         }
       ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danieloerther.github.io/daniel-oerther-person-json/#breadcrumbs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Oerther.org Home",
+          "item": "https://www.oerther.org/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Daniel Oerther",
+          "item": "https://www.oerther.org/danieloerther/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Structured JSON Profile",
+          "item": "https://danieloerther.github.io/daniel-oerther-person-json/"
+        }
+      ]
     }
   ]
 }
