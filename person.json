@@ -39,14 +39,14 @@
         "FAEESP",
         "FNAP"
       ],
-      "description": "Professor of Environmental Health Engineering specializing in planetary health solutions, interprofessional education and collaborative practice (IPECP), science diplomacy, and environmental biotechnology. Executive Director of the American Academy of Environmental Engineers and Scientists and President of the Council of Engineering and Scientific Specialty Boards. Tenured faculty at Missouri S&T and Professor of Nursing (by courtesy) at Duquesne University.",
+      "description": "Professor of Environmental Health Engineering pursuing The Vanishing Point - where technology meets caring - specializing in planetary health solutions, interprofessional education and collaborative practice (IPECP), science diplomacy, and environmental biotechnology. Past President of the American Academy of Environmental Engineers and Scientists and Past President of the Council of Engineering and Scientific Specialty Boards. Tenured faculty at Missouri S&T and Professor of Nursing (by courtesy) at Duquesne University.",
       "url": "https://www.oerther.org/DanielOerther",
       "image": "https://sites.mst.edu/danieloerther/files/2024/09/headshot-dan.jpg",
       "jobTitle": [
         "Professor of Environmental Health Engineering",
         "Professor of Nursing (by courtesy)",
-        "Executive Director, American Academy of Environmental Engineers and Scientists",
-        "President, Council of Engineering and Scientific Specialty Boards"
+        "Past President, American Academy of Environmental Engineers and Scientists",
+        "Past President, Council of Engineering and Scientific Specialty Boards"
       ],
       "affiliation": {
         "@id": "https://www.oerther.org/#organization"
@@ -90,6 +90,8 @@
         "Nurse-Engineer Collaboration",
         "Nurse+Engineer Model",
         "V-shaped Professional",
+        "The Vanishing Point",
+        "Ethical Stewardship",
         "Water and Sanitation (WaSH)",
         "Sustainable Water, Sanitation and Hygiene (WaSH)",
         "Sustainable Infrastructure",
@@ -130,7 +132,7 @@
         },
         {
           "@type": "Award",
-          "name": "Frederick George Pohland Medal, Association of Environmental Engineering and Science Professors",
+          "name": "Frederick George Pohland Medal, Association of Environmental Engineering and Science Professors, for sustained efforts in bridging research, education, and practice.",
           "awardDate": "2017"
         }
       ],
