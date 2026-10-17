@@ -18,6 +18,7 @@
       "givenName": "Daniel",
       "familyName": "Oerther",
       "alternateName": [
+        "Dan Oerther",
         "Daniel Oerther",
         "Daniel B Oerther",
         "Daniel B. Oerther",
@@ -28,25 +29,32 @@
         "Professor Daniel B. Oerther",
         "Daniel B. Oerther, PhD",
         "Daniel B. Oerther, PE, BCEE, BCES",
-        "Daniel B. Oerther, PhD, PE, BCEE, BCES"
+        "Daniel B. Oerther, PhD, PE, BCEE, BCES",
+        "Daniel B. Oerther, PhD, PE, BCEE, FAEESP",
+        "Daniel B. Oerther, PhD, PE, BCEE, DLAAS, FAAN",
+        "Daniel B. Oerther, PhD, PE, FNAP, ANEF, FAAN"
       ],
       "honorificSuffix": [
         "PhD",
         "PE",
         "BCEE",
         "BCES",
-        "FAAN",
+        "DLAAS",
         "FAEESP",
-        "FNAP"
+        "FNAP",
+        "ANEF",
+        "FAAN"
       ],
-      "description": "Professor of Environmental Health Engineering pursuing The Vanishing Point - where technology meets caring - specializing in planetary health solutions, interprofessional education and collaborative practice (IPECP), science diplomacy, and environmental biotechnology. Past President of the American Academy of Environmental Engineers and Scientists and Past President of the Council of Engineering and Scientific Specialty Boards. Tenured faculty at Missouri S&T and Professor of Nursing (by courtesy) at Duquesne University.",
+      "description": "Professor of Environmental Health Engineering at the Missouri University of Science and Technology and Professor of Nursing (by courtesy) at Duquesne University. Pioneer of the Nurse+Engineer. Author of TheVanishingPoint.ai — Where Systems of Caring Emerge. Known for articulating Environmental Engineering 3.0. Extensive scholarship in Science Diplomacy, Planetary Health, and Ethical Stewardship. Past President of the American Academy of Environmental Engineers and Scientists (AAEES) and Past President of the Council of Engineering and Scientific Specialty Boards (CESB). Diplomate Laureate of the American Academy of Sanitarians (DLAAS) and lifetime honorary Fellow of the American Academy of Nursing (FAAN).",
       "url": "https://www.oerther.org/DanielOerther",
       "image": "https://sites.mst.edu/danieloerther/files/2024/09/headshot-dan.jpg",
       "jobTitle": [
         "Professor of Environmental Health Engineering",
         "Professor of Nursing (by courtesy)",
-        "Past President, American Academy of Environmental Engineers and Scientists",
-        "Past President, Council of Engineering and Scientific Specialty Boards"
+        "Past President, American Academy of Environmental Engineers and Scientists (AAEES)",
+        "Past President, Council of Engineering and Scientific Specialty Boards (CESB)",
+        "Diplomate Laureate American Academy of Sanitarians (DLAAS)",
+        "Fellow American Academy of Nursing (FAAN)"
       ],
       "affiliation": {
         "@id": "https://www.oerther.org/#organization"
@@ -80,6 +88,7 @@
       "knowsAbout": [
         "Environmental Engineering",
         "Environmental Engineering 3",
+        "Environmental Engineering 3.0",
         "Environmental Health Engineering",
         "Planetary Health",
         "Planetary Health Solutions",
@@ -91,6 +100,7 @@
         "Nurse+Engineer Model",
         "V-shaped Professional",
         "The Vanishing Point",
+        "TheVanishingPoint",
         "Ethical Stewardship",
         "Water and Sanitation (WaSH)",
         "Sustainable Water, Sanitation and Hygiene (WaSH)",
@@ -108,7 +118,7 @@
         {
           "@type": "Award",
           "name": "Stanford-Elsevier Top 2% Scientists Career-long Impact",
-          "awardDate": "2025"
+          "awardDate": "2026"
         },
         {
           "@type": "Award",
@@ -132,7 +142,7 @@
         },
         {
           "@type": "Award",
-          "name": "Frederick George Pohland Medal, Association of Environmental Engineering and Science Professors, for sustained efforts in bridging research, education, and practice.",
+          "name": "Frederick George Pohland Medal, Environmental Engineering and Science Foundation, for sustained efforts in bridging research, education, and practice.",
           "awardDate": "2017"
         }
       ],
@@ -182,7 +192,7 @@
       "@id": "https://www.oerther.org/#organization",
       "name": "Oerther.org",
       "url": "https://www.oerther.org/",
-      "description": "Personal academic and professional website shared by Daniel B. Oerther and Sarah Oerther.",
+      "description": "Canonical academic and professional website shared by Daniel B. Oerther and Sarah Oerther.",
       "founder": [
         {
           "@id": "https://danieloerther.github.io/daniel-oerther-person-json/#person"
@@ -203,7 +213,7 @@
           "@type": "ListItem",
           "position": 2,
           "name": "Daniel Oerther",
-          "item": "https://www.oerther.org/danieloerther/"
+          "item": "https://www.oerther.org/DanielOerther/"
         },
         {
           "@type": "ListItem",
