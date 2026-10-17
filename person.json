@@ -56,9 +56,21 @@
         "Diplomate Laureate American Academy of Sanitarians (DLAAS)",
         "Fellow American Academy of Nursing (FAAN)"
       ],
-      "affiliation": {
-        "@id": "https://www.oerther.org/#organization"
+      "worksFor": {
+        "@type": "CollegeOrUniversity",
+        "name": "Missouri University of Science and Technology",
+        "url": "https://wwww.mst.edu/"
       },
+      "affiliation": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Duquesne University",
+          "url": "https://www.duq.edu/"
+        },
+      {
+        "@id": "https://www.oerther.org/#organization"
+      }
+      ],
       "alumniOf": [
         {
           "@type": "CollegeOrUniversity",
@@ -115,36 +127,12 @@
         }
       ],
       "award": [
-        {
-          "@type": "Award",
-          "name": "Stanford-Elsevier Top 2% Scientists Career-long Impact",
-          "awardDate": "2026"
-        },
-        {
-          "@type": "Award",
-          "name": "Champion of Nursing Award, American Nurses Association",
-          "awardDate": "2024"
-        },
-        {
-          "@type": "Award",
-          "name": "Duncan Fraser Global Award for Excellence in Engineering Education, International Federation of Engineering Education Socieities",
-          "awardDate": "2024"
-        },
-        {
-          "@type": "Award",
-          "name": "Gordon Maskew Fair Distinguished Engineering Educator Award, Water Environment Federation",
-          "awardDate": "2020"
-        },
-        {
-          "@type": "Award",
-          "name": "Lillian Wald Humanitarian Award, National League for Nursing",
-          "awardDate": "2019"
-        },
-        {
-          "@type": "Award",
-          "name": "Frederick George Pohland Medal, Environmental Engineering and Science Foundation, for sustained efforts in bridging research, education, and practice.",
-          "awardDate": "2017"
-        }
+        "Stanford-Elsevier Top 2% Scientists Career-long Impact (2026)",
+        "Champion of Nursing Award, American Nurses Association (2024)",
+        "Duncan Fraser Global Award for Excellence in Engineering Education, International Federation of Engineering Education Socieities (2024)",
+        "Gordon Maskew Fair Distinguished Engineering Educator Award, Water Environment Federation (2020)",
+        "Lillian Wald Humanitarian Award, National League for Nursing (2019)",
+        "Frederick George Pohland Medal, Environmental Engineering and Science Foundation (2017)",
       ],
       "memberOf": [
         {
