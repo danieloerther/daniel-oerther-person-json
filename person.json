@@ -50,11 +50,7 @@
       "image": "https://sites.mst.edu/danieloerther/files/2024/09/headshot-dan.jpg",
       "jobTitle": [
         "Professor of Environmental Health Engineering",
-        "Professor of Nursing (by courtesy)",
-        "Past President, American Academy of Environmental Engineers and Scientists (AAEES)",
-        "Past President, Council of Engineering and Scientific Specialty Boards (CESB)",
-        "Diplomate Laureate American Academy of Sanitarians (DLAAS)",
-        "Fellow American Academy of Nursing (FAAN)"
+        "Professor of Nursing (by courtesy)"
       ],
       "worksFor": {
         "@type": "CollegeOrUniversity",
@@ -219,7 +215,7 @@
           "@type": "ListItem",
           "position": 5,
           "name": "Blog and Project Archive",
-          "item": "https://danieloerther.wordpress.com "
+          "item": "https://danieloerther.wordpress.com"
         }
       ]
     }
